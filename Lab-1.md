@@ -3,5 +3,8 @@ Ok, so the first thing we were told to do was to download VSCODE. After clicking
 ![Image](https://raw.githubusercontent.com/a7mohamed/cse15l-lab-reports/main/Screenshot%202023-01-11%20124000.png)
 Once you have that installed and you see this, the next thing you want to do is open up your terminal which is located on the top left of the screen, or you can press the keys CTRL + SHIFT + ` (Don't include the pluses).
 While your terminal is open, you are going to want to connect to the remote server by using your course specific account for CSE 15L. To find your course specific account info, click this [link](http://sdacs.ucsd.edu/~icc/index.php).
-Once you have your account name, type ssh yourusername@ieng6.ucsd.edu where yourusername is your course specific account name. It should look something like this when you've connected. 
+Once you are conntected to this link, find your account and change your password and remember it, because we will be using that password to sign into the remote server.
+Once you have your account name and new password, type ssh yourusername@ieng6.ucsd.edu where "yourusername" is your course specific account name. It should look something like this when you've connected. 
 ![Image](https://raw.githubusercontent.com/a7mohamed/cse15l-lab-reports/main/Terminal.png)
+You might've noticed that the Password box remains empty even when you type, but you don't have to worry because it is meant to be like that. You also might have a lot more stuff pop up on your screen because it's your first time signing in, but that shouldn't be an issue either. The only thing that is an issue is when it keeps repeating to put in a password after you've entered it. When that happens, it's just the computer telling you that it hasn't noticed the password change yet, so wait 15-60 minutes and try again.
+Ok on to the next step. Now that we are successfully signed into the remote server, let's try running some commands.
