@@ -10,4 +10,4 @@ You might've noticed that the Password box remains empty even when you type, but
 So, on to the next step. Now that we are successfully signed into the remote server, let's try running some commands. There are a list of commands that we could run. Some of them are: cd, ls -lat, pwd, cd ~, and more. Here are a few I tried:![Image](https://raw.githubusercontent.com/a7mohamed/cse15l-lab-reports/main/Running%20Commands.png)
 These commands that I wrote print out some useful information. For example, ls -a command printed out all of the files that were in remote server account. Pretty cool huh?
 
-Now that we were successfully able to access the remote server and check that we were able to run some commands, that marks the end of the tutorial! I hope these instructions were clear and you were able to finish this with relative ease.
+Now that we were successfully able to access the remote server and check that we were able to run some commands, that marks the end of the tutorial! I hope these instructions were clear and you were able to finish this with relative ease. Until next blog!
