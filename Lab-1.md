@@ -7,7 +7,7 @@ Once you are connected to this link, find your account and change your password 
 Once you have your account name and new password, type ssh yourusername@ieng6.ucsd.edu where "yourusername" is your course specific account name. It should look something like this when you've connected. 
 ![Image](https://raw.githubusercontent.com/a7mohamed/cse15l-lab-reports/main/Terminal.png)
 You might've noticed that the Password box remains empty even when you type, but you don't have to worry because it is meant to be like that. You also might have a lot more stuff pop up on your screen that looks similar to this: 
-#code 
+# code block
 ...⤇ ssh cs15lwi23ako@ieng6.ucsd.edu
 ...The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established.
 ...RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.
