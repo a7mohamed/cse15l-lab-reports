@@ -6,6 +6,7 @@ While your terminal is open, you are going to want to connect to the remote serv
 Once you are connected to this link, find your account and change your password and remember it, because we will be using that password to sign into the remote server.
 Once you have your account name and new password, type ssh yourusername@ieng6.ucsd.edu where "yourusername" is your course specific account name. It should look something like this when you've connected. 
 ![Image](https://raw.githubusercontent.com/a7mohamed/cse15l-lab-reports/main/Terminal.png)
+
 You might've noticed that the Password box remains empty even when you type, but you don't have to worry because it is meant to be like that. You also might have a lot more stuff pop up on your screen that looks similar to this: 
 ```
 ⤇ ssh cs15lwi23ako@ieng6.ucsd.edu
