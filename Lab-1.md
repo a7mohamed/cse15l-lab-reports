@@ -8,11 +8,10 @@ Once you have your account name and new password, type ssh yourusername@ieng6.uc
 ![Image](https://raw.githubusercontent.com/a7mohamed/cse15l-lab-reports/main/Terminal.png)
 You might've noticed that the Password box remains empty even when you type, but you don't have to worry because it is meant to be like that. You also might have a lot more stuff pop up on your screen that looks similar to this: 
 ```
-# code block
-...⤇ ssh cs15lwi23ako@ieng6.ucsd.edu
-...The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established.
-...RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.
-...Are you sure you want to continue connecting (yes/no/[fingerprint])? 
+⤇ ssh cs15lwi23ako@ieng6.ucsd.edu
+The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established.
+RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.
+Are you sure you want to continue connecting (yes/no/[fingerprint])? 
 ```
 because it's your first time signing in, but that shouldn't be an issue either. The only thing that is an issue is when it keeps repeating to put in a password after you've entered it. When that happens, it's just the computer telling you that it hasn't noticed the password change yet, so wait 15-60 minutes and try again.
 So, on to the next step. Now that we are successfully signed into the remote server, let's try running some commands. There are a list of commands that we could run. Some of them are: cd, ls -lat, pwd, cd ~, and more. Here are a few I tried:![Image](https://raw.githubusercontent.com/a7mohamed/cse15l-lab-reports/main/Running%20Commands.png)
