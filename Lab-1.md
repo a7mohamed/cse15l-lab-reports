@@ -13,7 +13,7 @@ The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established.
 RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.
 Are you sure you want to continue connecting (yes/no/[fingerprint])? 
 ```
-because it's your first time signing in, but that shouldn't be an issue either. The only thing that is an issue is when it keeps repeating to put in a password after you've entered it. When that happens, it's just the computer telling you that it hasn't noticed the password change yet, so wait 15-60 minutes and try again.
+This only pops up on your first time signing in, so don't worry about it; it's not an issue. The only thing that is an issue is when it keeps repeating to put in a password after you've entered it. When that happens, it's just the computer telling you that it hasn't noticed the password change yet, so wait 15-60 minutes and try again.
 So, on to the next step. Now that we are successfully signed into the remote server, let's try running some commands. There are a list of commands that we could run. Some of them are: cd, ls -lat, pwd, cd ~, and more. Here are a few I tried:![Image](https://raw.githubusercontent.com/a7mohamed/cse15l-lab-reports/main/Running%20Commands.png)
 These commands that I wrote print out some useful information. For example, ls -a command printed out all of the files that were in remote server account. Pretty cool huh?
 
