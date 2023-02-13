@@ -2,9 +2,9 @@ Yo wassup yall!
 
 **this** formatting updates as *I type* 
 
-[Link](http://a.com)
+[Click here!](http://a.com)
 
-![Image](http://url/a.png)
+![Click here for Image!](http://url/a.png)
 
 > Blockquote
 
