@@ -45,7 +45,8 @@ In my ArrayTests.java, my reverse methods were failing. This was one of the fail
 ```
 3. The symptom, as the output of running the tests (provide it as a screenshot of running JUnit with at least the two inputs above).
 
-Here is the symptom from the first question
+Here is the symptom from the first question:
+Retake this photo for 2nd input. //first input //second input
 ![Image](https://github.com/a7mohamed/cse15l-lab-reports/blob/main/SymptomLab2.png)
 
 4. The bug, as the before-and-after code change required to fix it (as two code blocks in Markdown).
