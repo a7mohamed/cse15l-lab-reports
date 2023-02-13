@@ -19,10 +19,10 @@ For the handleRequest method, it takes in a url as an argument. That url represe
 3. How do the values of any relevant fields of the class change from this specific request? If no values got changed, explain why.
 The values are all turned into strings and are added on to the list. For example, when I add to the url /add-message?s=140, the number 140 is added onto the list, however, because of my split method, each object is taken in as a string.
 
-Now, for the part 2 of this Lab Report, I get to choose a bug from lab 3 and have to answer these questions:
+Now, for the part 2 of this Lab Report, I get to choose a bug from lab 3 and have to answer 4 questions:
 
 1. A failure-inducing input for the buggy program, as a JUnit test and any associated code (write it as a code block in Markdown)
-
+In my ArrayTests.java, my reverse methods were failing. `some code = int x`.
 2. An input that doesn’t induce a failure, as a JUnit test and any associated code (write it as a code block in Markdown)
 
 3. The symptom, as the output of running the tests (provide it as a screenshot of running JUnit with at least the two inputs above)
