@@ -24,7 +24,7 @@ Now, for the part 2 of this Lab Report, I get to choose a bug from lab 3 and hav
 1. A failure-inducing input for the buggy program, as a JUnit test and any associated code (write it as a code block in Markdown)
 In my ArrayTests.java, my reverse methods were failing. This was one of the failure-inducing inputs:
 
-`@Test
+``@Test
   public void testReverseInPlace2(){
     int[] input2 = {1, 2, 3};
     
