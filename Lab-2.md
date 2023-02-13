@@ -34,7 +34,14 @@ In my ArrayTests.java, my reverse methods were failing. This was one of the fail
   }
   ```
 2. An input that doesn’t induce a failure, as a JUnit test and any associated code (write it as a code block in Markdown)
-
+```
+	@Test 
+	public void testReverseInPlace() {
+    int[] input1 = { 3 };
+    ArrayExamples.reverseInPlace(input1);
+    assertArrayEquals(new int[]{ 3 }, input1);
+	}
+```
 3. The symptom, as the output of running the tests (provide it as a screenshot of running JUnit with at least the two inputs above)
 
 4. The bug, as the before-and-after code change required to fix it (as two code blocks in Markdown)
