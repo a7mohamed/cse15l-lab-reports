@@ -1,4 +1,4 @@
-# Hello, this is my blog for Lab 1.
+# Hello, this is my blog for Lab Report 1.
 Ok, so the first thing we were told to do was to download VSCODE using this [link]( https://code.visualstudio.com/). After clicking the link and installing it, you should see a page that looks like this.
 ![Image](https://raw.githubusercontent.com/a7mohamed/cse15l-lab-reports/main/Screenshot%202023-01-11%20124000.png)
 Once you have that installed and you see this, the next thing you want to do is open up your terminal which is located on the top left of the screen, or you can press the keys CTRL + SHIFT + ` (Don't include the pluses).
