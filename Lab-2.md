@@ -25,7 +25,6 @@ Now, for the part 2 of this Lab Report, I get to choose a bug from lab 3 and hav
 In my ArrayTests.java, my reverse methods were failing. This was one of the failure-inducing inputs:
 
 `@Test
-
   public void testReverseInPlace2(){
   
     int[] input2 = {1, 2, 3};
