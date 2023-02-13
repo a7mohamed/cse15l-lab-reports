@@ -26,15 +26,10 @@ In my ArrayTests.java, my reverse methods were failing. This was one of the fail
 
 `@Test
   public void testReverseInPlace2(){
-  
-    int[] input2 = {1, 2, 3};
-    
+    int[] input2 = {1, 2, 3};  
     ArrayExamples.reverseInPlace(input2);
-    
     //What I actually expect: {3, 2, 1}
-    
     //What I actually get : {2, 2, 2}
-    
     assertArrayEquals(new int[]{3, 2, 1}, input2);
   }`
 2. An input that doesn’t induce a failure, as a JUnit test and any associated code (write it as a code block in Markdown)
