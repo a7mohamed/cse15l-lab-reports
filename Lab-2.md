@@ -22,7 +22,14 @@ The values are all turned into strings and are added on to the list. For example
 Now, for the part 2 of this Lab Report, I get to choose a bug from lab 3 and have to answer 4 questions:
 
 1. A failure-inducing input for the buggy program, as a JUnit test and any associated code (write it as a code block in Markdown)
-In my ArrayTests.java, my reverse methods were failing. `some code = int x`.
+In my ArrayTests.java, my reverse methods were failing. This was one of the failure-inducing inputs 
+` @Test
+  public void testReverseInPlace2(){
+    int[] input2 = {1, 2, 3};
+    ArrayExamples.reverseInPlace(input2);
+    //What I actually expect: {3, 2, 1}
+    assertArrayEquals(new int[]{3, 2, 1}, input2);
+  }`
 2. An input that doesn’t induce a failure, as a JUnit test and any associated code (write it as a code block in Markdown)
 
 3. The symptom, as the output of running the tests (provide it as a screenshot of running JUnit with at least the two inputs above)
