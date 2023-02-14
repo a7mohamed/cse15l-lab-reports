@@ -5,6 +5,8 @@
 
 ![Image](https://raw.githubusercontent.com/a7mohamed/cse15l-lab-reports/main/StringServerCode2.png)
 
+![Image](https://raw.githubusercontent.com/a7mohamed/cse15l-lab-reports/main/StringServerCodeMain.png)
+
 When you type in mulitple strings, they should be printed on separate lines. It should look like this:
 
 ![Image](https://raw.githubusercontent.com/a7mohamed/cse15l-lab-reports/main/LocalHostOneItem.png)
