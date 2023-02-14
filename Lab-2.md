@@ -1,7 +1,7 @@
 # Hello, this is my blog for Lab Report 2.
 **So the first part of this Lab Report** asks us to write a webserver called StringServer that keeps track of a single string that gets added to by incoming requests. My code looks like this:
 
-![Image](https://raw.githubusercontent.com/a7mohamed/cse15l-lab-reports/blob/main/ImportsStringServer.png)
+![Image](https://raw.githubusercontent.com/a7mohamed/cse15l-lab-reports/main/ImportsStringServer.png)
 
 ![Image](https://raw.githubcontent.com/a7mohamed/cse15l-lab-reports/blob/main/StringServerCode2.png)
 
