@@ -19,7 +19,7 @@ For the handleRequest method, it takes in a url as an argument. That url represe
 3. How do the values of any relevant fields of the class change from this specific request? If no values got changed, explain why.
 The values are all turned into strings and are added on to the list. For example, when I add to the url /add-message?s=140, the number 140 is added onto the list, however, because of my split method, each object is taken in as a string.
 
-Now, for the part 2 of this Lab Report, I get to choose a bug from lab 3 and have to answer 4 questions:
+**Now, for the part 2 of this Lab Report,** I get to choose a bug from lab 3 and have to answer 4 questions:
 
 1. A failure-inducing input for the buggy program, as a JUnit test and any associated code (write it as a code block in Markdown).
 
@@ -74,5 +74,5 @@ After:
 ```
 What the fixed after code does differently is that it copies the values of the array into a temp integer and it copies the values into the array ```arr``` backwards.
 
-And finally, for part 3 of the Lab Report,
+**And finally, for part 3 of the Lab Report,** I need to describe something that I have learned in the week 2 or week 3 lab. I feel like something crucial I have learned in those weeks is the process of debugging. Ever since I started coding, I have come across so many simple errors that I thought were impossible to overcome, and ever single time after I was able to get past the problem, I was ashamed at how long it took me to find out. I have learned that debugging requires patience and calculated moves; I can't just change a random piece of code and hope for the best, I need to remind myself what the code is meant to accomplish, maybe look at what some methods do again, refamiliarize myself with the code, and always stay hopeful because debugging with a negative attitude will make it harder to get the work done. Welp, that's it from me. Until next time!
 
