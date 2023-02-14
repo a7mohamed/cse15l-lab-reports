@@ -72,5 +72,5 @@ After:
     }
   }
 ```
-What the fixed after code does differently is that it copies the values of the array into an temp array and it copies the values into the array arr backwards.
+What the fixed after code does differently is that it copies the values of the array into a temp integer and it copies the values into the array ```arr``` backwards.
 
