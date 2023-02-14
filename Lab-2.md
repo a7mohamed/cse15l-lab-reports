@@ -1,5 +1,5 @@
 # Hello, this is my blog for Lab Report 2.
-So the first part of this Lab Report asks us to write a webserver called StringServer that keeps track of a single string that gets added to by incoming requests. My code looks like this:
+**So the first part of this Lab Report** asks us to write a webserver called StringServer that keeps track of a single string that gets added to by incoming requests. My code looks like this:
 
 ![Image](https://github.com/a7mohamed/cse15l-lab-reports/blob/main/ImportsStringServer.png)
 ![Image](https://github.com/a7mohamed/cse15l-lab-reports/blob/main/StringServerCode.png)
@@ -73,4 +73,6 @@ After:
   }
 ```
 What the fixed after code does differently is that it copies the values of the array into a temp integer and it copies the values into the array ```arr``` backwards.
+
+And finally, for part 3 of the Lab Report,
 
