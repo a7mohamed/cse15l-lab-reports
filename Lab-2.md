@@ -1,9 +1,15 @@
 # Hello, this is my blog for Lab Report 2.
 **So the first part of this Lab Report** asks us to write a webserver called StringServer that keeps track of a single string that gets added to by incoming requests. My code looks like this:
 
-![Image](https://github.com/a7mohamed/cse15l-lab-reports/blob/main/ImportsStringServer.png)
+![Image](https://raw.githubusercontent.com/a7mohamed/cse15l-lab-reports/blob/main/ImportsStringServer.png)
+
+![Image](https://raw.githubcontent.com/a7mohamed/cse15l-lab-reports/blob/main/StringServerCode2.png)
 
 When you type in mulitple strings, they should be printed on separate lines. It should look like this:
+
+![Image](https://raw.githubcontent.com/a7mohamed/cse15l-lab-reports/blob/main/LocalHostOneItem.png)
+
+![Image](https://github.com/a7mohamed/cse15l-lab-reports/blob/main/LocalHostTwoItems.png)
 
 Now, here are some questions that will clarify a few questions pertaining to the screenshots.
 
@@ -44,6 +50,10 @@ In my ArrayTests.java, my reverse methods were failing. This was one of the fail
 
 Here is a symptom from the first question:
 
+![Image](https://github.com/a7mohamed/cse15l-lab-reports/blob/main/Input1Lab2.png) 
+
+![Image](https://github.com/a7mohamed/cse15l-lab-reports/blob/main/Input2Lab2.png)
+
 4. The bug, as the before-and-after code change required to fix it (as two code blocks in Markdown).
 
 Before:
@@ -75,5 +85,3 @@ I feel like something crucial I have learned in those weeks is the process of de
 I have learned that debugging requires patience and calculated moves; I can't just change a random piece of code and hope for the best, I need to remind myself what the code is meant to accomplish, maybe look at what some methods do again, refamiliarize myself with the code, and always stay hopeful because debugging with a negative attitude will make it harder to get the work done. 
 
 Welp, that's it from me this week. Until next time!
-
-sup
