@@ -74,5 +74,11 @@ After:
 ```
 What the fixed after code does differently is that it copies the values of the array into a temp integer and it copies the values into the array ```arr``` backwards.
 
-**And finally, for part 3 of the Lab Report,** I need to describe something that I have learned in the week 2 or week 3 lab. I feel like something crucial I have learned in those weeks is the process of debugging. Ever since I started coding, I have come across so many simple errors that I thought were impossible to overcome, and ever single time after I was able to get past the problem, I was ashamed at how long it took me to find out. I have learned that debugging requires patience and calculated moves; I can't just change a random piece of code and hope for the best, I need to remind myself what the code is meant to accomplish, maybe look at what some methods do again, refamiliarize myself with the code, and always stay hopeful because debugging with a negative attitude will make it harder to get the work done. Welp, that's it from me. Until next time!
+**And finally, for part 3 of the Lab Report,** I need to describe something that I have learned in the week 2 or week 3 lab. 
+
+I feel like something crucial I have learned in those weeks is the process of debugging. Ever since I started coding, I have come across so many simple errors that I thought were impossible to overcome at the time, and ever single time after I was able to get finally get the answer, I was ashamed at how long it took me to find out.
+
+I have learned that debugging requires patience and calculated moves; I can't just change a random piece of code and hope for the best, I need to remind myself what the code is meant to accomplish, maybe look at what some methods do again, refamiliarize myself with the code, and always stay hopeful because debugging with a negative attitude will make it harder to get the work done. 
+
+Welp, that's it from me this week. Until next time!
 
