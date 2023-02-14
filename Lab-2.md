@@ -45,10 +45,22 @@ In my ArrayTests.java, my reverse methods were failing. This was one of the fail
 ```
 3. The symptom, as the output of running the tests (provide it as a screenshot of running JUnit with at least the two inputs above).
 
-Here is the symptom from the first question:
-Retake this photo for 2nd input. //first input //second input
+Here is a symptom from the first question:
+
 ![Image](https://github.com/a7mohamed/cse15l-lab-reports/blob/main/Input1Lab2.png)
 ![Image](https://github.com/a7mohamed/cse15l-lab-reports/blob/main/Input2Lab2.png)
 
 4. The bug, as the before-and-after code change required to fix it (as two code blocks in Markdown).
+Before:
+```
+// Changes the input array to be in reversed order
+  static void reverseInPlace(int[] arr) {
+    for(int i = 0; i < arr.length; i += 1) {
+      arr[i] = arr[(arr.length - i - 1)/2];
+    }
+  }
+```
+After:
+```
 
+```
