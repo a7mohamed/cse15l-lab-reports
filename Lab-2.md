@@ -51,6 +51,7 @@ Here is a symptom from the first question:
 ![Image](https://github.com/a7mohamed/cse15l-lab-reports/blob/main/Input2Lab2.png)
 
 4. The bug, as the before-and-after code change required to fix it (as two code blocks in Markdown).
+
 Before:
 ```
 // Changes the input array to be in reversed order
@@ -71,3 +72,5 @@ After:
     }
   }
 ```
+What the fixed after code does differently is that it copies the values of the array into an temp array and it copies the values into the array arr backwards.
+
