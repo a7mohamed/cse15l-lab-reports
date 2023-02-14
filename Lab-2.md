@@ -9,7 +9,7 @@ When you type in mulitple strings, they should be printed on separate lines. It 
 
 ![Image](https://github.com/a7mohamed/cse15l-lab-reports/blob/main/LocalHostOneItem.png)
 
-![Image](https://github.com/a7mohamed/cse15l-lab-reports/blob/main/LocalHostTwoItems.png)
+THERES A PICTURE HERE
 
 Now, here are some questions that will clarify a few questions pertaining to the screenshots.
 
@@ -50,7 +50,7 @@ In my ArrayTests.java, my reverse methods were failing. This was one of the fail
 
 Here is a symptom from the first question:
 
-
+THE TWO PICTURES ARE HERE
 
 4. The bug, as the before-and-after code change required to fix it (as two code blocks in Markdown).
 
