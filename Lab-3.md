@@ -1,1 +1,1 @@
-## Hello, this is my blog for Lab Report 3.
+# Hello, this is my blog for Lab Report 3.
