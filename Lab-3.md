@@ -36,4 +36,22 @@ Now, for me personally, grep -v is my favortie grep command because of how weird
 
 ![Image](https://raw.githubusercontent.com/a7mohamed/cse15l-lab-reports/main/GrepCommand3%231.png)
 
-There are a total of 16 lines in HandRIstanbul.txt. Four of those lines have the word the, while the other twelve do not, as you can see by the result.
+There are a total of 16 lines in HandRIstanbul.txt. Four of those lines have the word the, while the other twelve do not, as you can see by the result. Grep -v is also known as the inverse grep. Let's look at another example shall we:
+
+![Image](https://raw.githubusercontent.com/a7mohamed/cse15l-lab-reports/main/GrepCommand3%232.png)
+
+Just like in the previous example,
+
+## For our fourth example, I will be showing you two examples of the command grep -l.
+
+Write over here
+
+![Image](https://raw.githubusercontent.com/a7mohamed/cse15l-lab-reports/main/GrepCommand4%231.png)
+
+Talk about it here and also introduce the next picture
+
+![Image](https://raw.githubusercontent.com/a7mohamed/cse15l-lab-reports/main/GrepCommand4%232.png)
+
+Talk about it here
+
+There were many more grep commands to choose from, but these were the 4 that I found the most interesting or the most useful. Hopefully, you did too. See you next blog!
