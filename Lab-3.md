@@ -6,4 +6,6 @@ When grep is executed, it searches for the specified pattern in each line of the
 
 For our first example, I will be showing you two examples of me using the command grep -c.
 What grep -c does is that instead of returning the lines of the words grep finds, it return the how many times they were found. Here's an example of me using grep normally, and then grep -c after.
-[]
+
+
+![Image](https://raw.githubusercontent.com/a7mohamed/cse15l-lab-reportsmain/GrepCommand1%231.png)
