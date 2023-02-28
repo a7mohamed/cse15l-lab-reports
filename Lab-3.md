@@ -24,3 +24,7 @@ Something you might notice differnetly here is that I have quotatins around "Las
 What grep -i does is that it essentially doesn't care about case sensitivity and grabs the word however it is written (whether it has uppercases or lowercases, it doesn't matter!). Here's a quick look at how it works:
 
 ![Image](https://raw.githubusercontent.com/a7mohamed/cse15l-lab-reports/main/GrepCommand2%231.png)
+
+You see how for the first option, I look specifically for the word "Hotels" and I only get back one line of code, but when I try using grep -i, I see that the word hotel is used 3 other times! Only the first instance of hotel started with a capital H while the others began with a lowercase h. Let's see another example of grep -i:
+
+![Image](https://raw.githubusercontent.com/a7mohamed/cse15l-lab-reports/main/GrepCommand2%232.png)
