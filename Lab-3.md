@@ -48,11 +48,12 @@ And for our last command, I chose grep -l. It seems like the most useful command
 
 ![Image](https://raw.githubusercontent.com/a7mohamed/cse15l-lab-reports/main/GrepCommand4%231.png)
 
-Talk about it here and also introduce the next picture
+Wow! These are all the files that contain the word "bedroom" and the other files don't have that word at all. This could be pretty useful when your looking for a file that talks about a specific thing, so you could just grep -l it and find the important files you need. Let's try it again:
 
 ![Image](https://raw.githubusercontent.com/a7mohamed/cse15l-lab-reports/main/GrepCommand4%232.png)
 
-Talk about it here
+I think I know where to start looking if I'm interested in dessert! This is just one of the few ways that grep -l can help you pinpoint and find specific entries that have the information you need.
 
 There were many more grep commands to choose from, but these were the 4 that I found the most interesting or the most useful. Hopefully, you did too. See you next blog!
+
 PS: All of my grep commands came from this [link.](https://phoenixnap.com/kb/grep-command-linux-unix-examples)
