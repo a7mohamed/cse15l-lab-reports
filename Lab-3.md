@@ -21,4 +21,6 @@ Something you might notice differnetly here is that I have quotatins around "Las
 ![Image](https://raw.githubusercontent.com/a7mohamed/cse15l-lab-reports/main/GrepError1.png)
 
 ## For our second example, I will be showing you two examples of the command grep -i.
+What grep -i does is that it essentially doesn't care about case sensitivity and grabs the word however it is written (whether it has uppercases or lowercases, it doesn't matter!). Here's a quick look at how it works:
 
+![Image](https://raw.githubusercontent.com/a7mohamed/cse15l-lab-reports/main/GrepCommand2%231.png)
