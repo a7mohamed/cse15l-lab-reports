@@ -28,3 +28,10 @@ What grep -i does is that it essentially doesn't care about case sensitivity and
 You see how for the first option, I look specifically for the word "Hotels" and I only get back one line of code, but when I try using grep -i, I see that the word hotel is used 3 other times! Only the first instance of hotel started with a capital H while the others began with a lowercase h. Let's see another example of grep -i:
 
 ![Image](https://raw.githubusercontent.com/a7mohamed/cse15l-lab-reports/main/GrepCommand2%232.png)
+
+I did this example vice versa from the previous one by showing you that you can start the search with a lowercase letter and still find that word with capitals in it with grep -i. Pretty neat, huh?
+
+## For our third example, I will be showing you two examples of the command grep -v.
+Now, for me personally, grep -v is my favortie grep command because of how weird it is. It is essentially the opposite of the grep command. Grep -v returns the lines that **don't** contain the word/s that you are looking for. Look at the example:
+
+![Image](https://raw.githubusercontent.com/a7mohamed/cse15l-lab-reports/main/GrepCommand3%231.png)
