@@ -35,3 +35,5 @@ I did this example vice versa from the previous one by showing you that you can 
 Now, for me personally, grep -v is my favortie grep command because of how weird it is. It is essentially the opposite of the grep command. Grep -v returns the lines that **don't** contain the word/s that you are looking for. Look at this example:
 
 ![Image](https://raw.githubusercontent.com/a7mohamed/cse15l-lab-reports/main/GrepCommand3%231.png)
+
+There are a total of 16 lines in HandRIstanbul.txt. Four of those lines have the word the, while the other twelve do not, as you can see by the result.
