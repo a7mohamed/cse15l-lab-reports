@@ -44,7 +44,7 @@ In this example, I tried searching for a word that wasn't in my HandRLisbon.txt 
 
 ## For our fourth example, I will be showing you two examples of the command grep -l.
 
-Write over here
+And for our last command, I chose grep -l. It seems like the most useful command to use and it's pretty simple to understand. What grep -l does is it returns the names of the files that contains the word/s you give to it. Let's see which txt files have the word "bedroom" in them:
 
 ![Image](https://raw.githubusercontent.com/a7mohamed/cse15l-lab-reports/main/GrepCommand4%231.png)
 
