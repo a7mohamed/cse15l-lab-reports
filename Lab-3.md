@@ -9,3 +9,10 @@ What grep -c does is that instead of returning the lines of the words grep finds
 
 
 ![Image](https://raw.githubusercontent.com/a7mohamed/cse15l-lab-reports/main/GrepCommand1%231.png)
+
+As you can see, the word Oahu is found 2 times in my HandRHawaii.txt file. The grep command (with no extra option) returned the 2 lines were that word was found, while grep -c returned the **count** or the amount of times that word was found.
+
+Here's another examples of using grep -c.
+
+![Image](https://raw.githubusercontent.com/a7mohamed/cse15l-lab-reports/main/GrepCommand1%232.png)
+
