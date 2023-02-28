@@ -40,7 +40,7 @@ There are a total of 16 lines in HandRIstanbul.txt. Four of those lines have the
 
 ![Image](https://raw.githubusercontent.com/a7mohamed/cse15l-lab-reports/main/GrepCommand3%232.png)
 
-Just like in the previous example,
+In this example, I tried searching for a word that wasn't in my HandRLisbon.txt file, and of course, when I ran the grep command, nothing was printed out. However, when I ran grep -v with the same word, the entire file was printed out. That's because the word "hello" is nowhere to be found in that file.
 
 ## For our fourth example, I will be showing you two examples of the command grep -l.
 
@@ -55,3 +55,4 @@ Talk about it here and also introduce the next picture
 Talk about it here
 
 There were many more grep commands to choose from, but these were the 4 that I found the most interesting or the most useful. Hopefully, you did too. See you next blog!
+PS: All of my grep commands came from this [link.](https://phoenixnap.com/kb/grep-command-linux-unix-examples)
