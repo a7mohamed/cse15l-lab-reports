@@ -16,4 +16,4 @@ Step 6 tells me to run the tests, demonstrating that they fail. In order to run 
 
 ![Image](https://raw.githubusercontent.com/a7mohamed/cse15l-lab-reports/main/Javac%26Java.png)
 
-Step 7 asks me to edit the code file to fix the failing test. After
+Step 7 asks me to edit the code file to fix the failing test. After looking
