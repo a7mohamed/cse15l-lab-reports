@@ -29,3 +29,5 @@ And lastly for step 9, all I need to do is push the changes to my Github account
 Now when we go to my forked Lab 7 repository and look into the ListExamples.java file, we can see that it's been updated:
 
 ![Image](https://raw.githubusercontent.com/a7mohamed/cse15l-lab-reports/main/FixedIndex.png)
+
+So these are the steps that I took in order to complete this lab. In short, I made a fork of the repo, made some changes to it, and saved those changes. Hope you liked it. See you next blog!
