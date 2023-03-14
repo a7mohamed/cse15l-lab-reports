@@ -24,7 +24,7 @@ For Step 8, I fixed the error and my code worked, however, my system wasn't show
 
 And lastly for step 9, all I need to do is push the changes to my Github account. Luckily for me, I opened the code using my Github desktop and commiting changes is really easy from there. I opened up my github desktop browser and pressed the "commit to main" button on the bottom left, then pressed "push to origin". Here are all the changes I made (it was only one number):
 
-![Image](https://raw.githubusercontent.com/a7mohamed/cse15l-lab-reports/main/VisibleChanges.png)
+![Image](https://raw.githubusercontent.com/a7mohamed/cse15l-lab-reports/main/GithubDesktopIndex.png)
 
 Now when we go to my forked Lab 7 repository and look into the ListExamples.java file, we can see that it's been updated:
 
