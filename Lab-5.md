@@ -9,4 +9,6 @@ given filename. Here's how it works:
 
 I've decided to look into the berlitz1/ file and search for any file that ends in .txt (which is what the *.txt means), and it found many files that end in .txt (it showed more but I only screenshotted a couple).
 
-Next, let's look at another command that could be very useful: "find <directory> -print". This command prints the filenames of the files found by the find command. This option is used by default if no other action is specified.
+Next, let's look at another command that could be very useful: "find <directory> -print". This command prints the filenames of the files found by the find command. This option is used by default if no other action is specified. Here's how it works:
+
+![Image](https://raw.githubusercontents.com/a7mohamed/cse15l-lab-reports/main/FindCommand2.png)
