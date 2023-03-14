@@ -5,6 +5,6 @@ Step 4 tells me to log into ieng6, so that's what I'll do first. This is what I 
 ![Image](https://raw.githubusercontent.com/a7mohamed/cse15l-lab-reports/main/SSHLogin.png)
 
 
-Step 5 tells me to clone my fork of the repository from your Github account, so I went to the lab 7 repository [link]([(https://github.com/ucsd-cse15l-w23/lab7)]) and clicked the fork button on the top right. Once it was forked, I cloned it in my terminal. I typed this into my terminal: *git clone https://github.com/a7mohamed/lab7.git* and this was the output: 
+Step 5 tells me to clone my fork of the repository from your Github account, so I went to the lab 7 repository [link](https://github.com/ucsd-cse15l-w23/lab7) and clicked the fork button on the top right. Once it was forked, I cloned it in my terminal. I typed this into my terminal: *git clone https://github.com/a7mohamed/lab7.git* and this was the output: 
 
 ![Image](https://raw.githubusercontent.com/a7mohamed/cse15l-lab-reports/main/SSHLogin.png)
