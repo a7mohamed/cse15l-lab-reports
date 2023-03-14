@@ -22,3 +22,5 @@ And lastly, let's look at a brand new command that we haven't seen or does somet
 We can see that only two files are newer than our WhereToMadrid.txt file. Based off of this, our newest file is our WhereToMallorca.txt file.
   
 With all of these different ways to use the find method, programmers can find a way search for a file in a variety of interesting and different ways. The find method is a very useful command, along side the grep and less commands. Until next time!
+  
+PS CHATGPT helped me finding commands and their definitions.
