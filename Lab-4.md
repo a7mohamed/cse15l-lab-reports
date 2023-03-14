@@ -16,6 +16,12 @@ Step 6 tells me to run the tests, demonstrating that they fail. In order to run 
 
 ![Image](https://raw.githubusercontent.com/a7mohamed/cse15l-lab-reports/main/TestListExamples.png)
 
-Step 7 asks me to edit the code file to fix the failing test. After looking at the ListExamples file, I realized that the last while loop was causing the error. index1 had been incrementing on line 43 when it should have been index2 because index2 keeps track of list2's size. I fixed the error and my code worked, however, my system wasn't showing me the tests passing for some reason, so the best I could do is show a screenshot of my JUnit tests passing. Sorry:(
+Step 7 asks me to edit the code file to fix the failing test. After looking at the ListExamples file, I realized that the last while loop was causing the error. index1 had been incrementing on line 43 when it should have been index2 because index2 keeps track of list2's size. 
+
+For Step 8, I fixed the error and my code worked, however, my system wasn't showing me the tests passing for some reason, so the best I could do is show a screenshot of my JUnit tests passing. Sorry:(
 
 ![Image](https://raw.githubusercontent.com/a7mohamed/cse15l-lab-reports/main/JUnitTestsPassed.png)
+
+And lastly for step 9, all I need to do is push the changes to my Github account. Luckily for me, I opened the code using my Github desktop and commiting changes is really easy from there. I opened up my github desktop browser and pressed the "commit to main" button on the bottom left, then pressed "push to origin". Now when we go to the ListExamples.java file, we can see that it's been updated:
+
+![Image](https://raw.githubusercontent.com/a7mohamed/cse15l-lab-reports/main/FixedIndex.png)
