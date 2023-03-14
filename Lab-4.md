@@ -14,6 +14,6 @@ The reason why this response is here is because I had already cloned this reposi
 
 Step 6 tells me to run the tests, demonstrating that they fail. In order to run the code, I have to go back to week 3 and find copy and paste the javac and java commands. But before I did that, I had to correctly be in the right directly. This is what I typed in my terminal: __ls, cd la (it was here that I pressed tab and it autocompleted to lab7/)__, then my copied javac command ___javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java___, and then my copied java command ___java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore___ with an additional ___TestListExamples___ that I typed at the end because that's what we want to run. My output looked like this:
 
-![Image](https://raw.githubusercontent.com/a7mohamed/cse15l-lab-reports/main/Javac%26Java.png)
+![Image](https://raw.githubusercontent.com/a7mohamed/cse15l-lab-reports/main/TestListExamples.png)
 
 Step 7 asks me to edit the code file to fix the failing test. After looking
