@@ -18,3 +18,7 @@ Notice how this command has almost exaclty the same output as the previous comma
 And lastly, let's look at a brand new command that we haven't seen or does something new. "find <directory> -newer <file>". This command finds files in the specified directory that are newer than the specified file. This option can be used to find all files that have been modified since a certain date or time. Before I explain how this command works, I need to explain its usefulness. Say for example you have a system crash. In case of a system crash or data loss, you can use this command to quickly identify the files that have been modified since the last backup and recover them. You will be able to tell which files have been changed or lost and will be able to act accordingly. Now, let's take a look: 
   
 ![Image](https://raw.githubusercontents.com/a7mohamed/cse15l-lab-reports/main/FindCommand3.png)
+  
+We can see that only two files are newer than our WhereToMadrid.txt file. Based off of this, our newest file is our WhereToMallorca.txt file.
+  
+With all of these different ways to use the find method, programmers can find a way search for a file in a variety of interesting and different ways. The find method is a very useful command, along side the grep and less commands. Until next time!
