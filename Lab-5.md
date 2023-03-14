@@ -12,3 +12,9 @@ I've decided to look into the berlitz1/ file and search for any file that ends i
 Next, let's look at another command that could be very useful: "find <directory> -print". This command prints the filenames of the files found by the find command. This option is used by default if no other action is specified. Here's how it works:
 
 ![Image](https://raw.githubusercontents.com/a7mohamed/cse15l-lab-reports/main/FindCommand2.png)
+  
+Notice how this command has almost exaclty the same output as the previous command (yet again I only screenshotted some files). However, you may notice something different with the very first file the -print command finds. It is simply berlitz1/. When I used -name *.txt, it only found files that ended in .txt, however -print gives me everything. If berlitz1/ had more that just .txt files, it would've been easier to see the differene between the two.
+  
+And lastly, let's look at a brand new command that we haven't seen or does something new. "find <directory> -newer <file>". This command finds files in the specified directory that are newer than the specified file. This option can be used to find all files that have been modified since a certain date or time. Before I explain how this command works, I need to explain its usefulness. Say for example you have a system crash. In case of a system crash or data loss, you can use this command to quickly identify the files that have been modified since the last backup and recover them. You will be able to tell which files have been changed or lost and will be able to act accordingly. Now, let's take a look: 
+  
+![Image](https://raw.githubusercontents.com/a7mohamed/cse15l-lab-reports/main/FindCommand3.png)
